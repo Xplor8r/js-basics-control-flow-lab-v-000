@@ -23,5 +23,7 @@ function ternaryCheckCity(city) {
   return result;
 }
 
-function     at Context.<anonymous> (test/indexTest.js:24:7)
-switchOnCharmFromTip()
+function switchOnCharmFromTip(tip) {
+  let result;
+  if (tip )
+}
