@@ -23,4 +23,5 @@ function ternaryCheckCity(city) {
   return result;
 }
 
-function 
+function     at Context.<anonymous> (test/indexTest.js:24:7)
+switchOnCharmFromTip()
