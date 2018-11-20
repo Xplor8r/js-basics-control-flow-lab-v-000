@@ -17,7 +17,7 @@ function ternaryCheckCity(city) {
   let result;
   if (city === NYC) {
     result = ""
-  } else if () {
+  } else if (city !== NYC) {
     result = ""
   }
   return result;
