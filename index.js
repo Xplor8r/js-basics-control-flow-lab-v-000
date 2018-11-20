@@ -13,7 +13,13 @@ function scuberGreetingForFeet(distance) {
   return result;
 }
 
-function ternaryCheckCity() {
-  
+function ternaryCheckCity(city) {
+  let result;
+  if (city === NYC) {
+    result = 
+  } else if () {
+    
+  }
+  return result;
 }
 
