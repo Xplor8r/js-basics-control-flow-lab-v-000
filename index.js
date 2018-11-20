@@ -1,4 +1,5 @@
 // Write your code in this file!
+var distance;
 
 function scuberGreetingForFeet(distance) {
   if (distance <= 400) {
